@@ -6,8 +6,8 @@ Me chamo Raylson, tenho 27 anos e trabalho na internet desde 2019, sou apaixonad
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmraylson26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmraylson26&layout=compact&langs_count=10&theme=dark"/>
+  
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmraylson26&layout=compact&langs_count=10&theme=dark"/> -->
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
@@ -16,6 +16,7 @@ Me chamo Raylson, tenho 27 anos e trabalho na internet desde 2019, sou apaixonad
 
 <!-- TECNOLOGIAS -->
 <div style="display: inline_block; align = center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmraylson26&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <table>
     <tr>
       <th> Languages </th>
