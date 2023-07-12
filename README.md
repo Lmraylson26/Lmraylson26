@@ -16,7 +16,7 @@ Me chamo Raylson, tenho 27 anos e trabalho na internet desde 2019, sou apaixonad
 
 <!-- TECNOLOGIAS -->
 <div style="display: inline_block; align = center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmraylson26&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmraylson26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <table>
     <tr>
       <th> Languages </th>
